@@ -7,4 +7,3 @@ Installing prerequisites:
 
 pip3 install easygui
 
-pip3 install sqlite3
